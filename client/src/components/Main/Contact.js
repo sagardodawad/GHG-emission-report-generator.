@@ -14,7 +14,7 @@ const Contact = () => {
             <h1>Send us Mail:</h1>
 
             <form
-              action="https://formspree.io/f/mzblnevv"
+              action="https://formspree.io/your_formspree_link"
               method="post"
               id="sendemail"
               className={`${styles.contactForm} needs-validation`}
